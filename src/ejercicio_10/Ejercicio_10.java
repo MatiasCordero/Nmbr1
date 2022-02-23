@@ -15,6 +15,7 @@ public class Ejercicio_10 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        int num = 200;
         double[] A = new double[50];
         double[] B =  new double[20];
         double aux = 0;
